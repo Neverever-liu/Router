@@ -1,6 +1,7 @@
 # Router
 Link State Routing Algorithm
-This is the project implementation requirement\n
+This is the project implementation requirement
+
 一：
 1.编程实现右图所示简单网络拓扑的链路状态路由算法。
   	1.1 结点之间的连接关系固定；
